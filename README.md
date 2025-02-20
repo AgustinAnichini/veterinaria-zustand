@@ -34,24 +34,15 @@
 
 ---
 
-## ⚙️ **Instrucciones de instalación y ejecución:**
+## Instalación y ejecución del proyecto
 
-Para instalar y ejecutar el proyecto en tu máquina local:
+Para comenzar a trabajar con este proyecto, sigue estos pasos:
 
-1. **Clona el repositorio**:
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    ```
-
-2. **Instala las dependencias**:
-    ```bash
-    npm install
-    ```
-
-3. **Ejecuta el proyecto en modo desarrollo**:
-    ```bash
-    npm run dev
-    ```
+```cmd
+git clone <url-del-repositorio>
+cd <nombre-del-directorio-del-proyecto>
+npm install
+npm run dev
 
 ---
 
